@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "name": "KAP per le Aziende",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "businessm4",
+      "title": "BusinessM4",
+      "styling": {
+        "primaryColor": "#ff4f7b",
+        "secondaryColor": "#2bdc9d",
+        "successColor": "#1dc9cb",
+        "infoColor": "#188ef4",
+        "warningColor": "#C1C1C1",
+        "dangerColor": "#444444",
+        "mainFont": "Montserrat",
+        "display1Font": "Montserrat",
+        "display1Size": 3,
+        "display2Font": "Montserrat",
+        "display2Size": 1.8,
+        "display5Font": "Montserrat",
+        "display5Size": 1.2,
+        "display7Font": "Montserrat",
+        "display7Size": 1,
+        "display4Font": "Montserrat",
+        "display4Size": 1,
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false,
+        "arrowColor": "#188ef4"
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.11.6",
+    "siteFonts": [],
+    "uniqCompNum": 0,
+    "versionPublish": "4.11.6"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
